@@ -1,0 +1,6 @@
+interface:
+  display_name: "橘子灯 Skill"
+  short_description: "为中文文章生成以原创 IP 橘子灯为主角的橘皮灯罩小旅人手绘配图"
+  default_prompt: "Use $juzideng-illustrations to 为这篇中文文章设计并生成几张橘子灯手绘正文配图，每张都要附带橘子灯参考图。"
+policy:
+  allow_implicit_invocation: true
